@@ -1,6 +1,6 @@
 body {
-    background: cornflowerblue;
-    color: darkblue;
+    background: hsl(120, 100%, 80%);
+    color: hsl(120, 100%, 20%);
     font-family: Verdana, Helvetica, sans-serif;
   }
 
